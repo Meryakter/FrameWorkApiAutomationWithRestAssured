@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Automation Test" parallel="false" >
+    <test name = "Ecommerce Home">
+        <classes>
+            <!--            <class name="apitest.PeopleResourcesTest"/>-->
+            <!--            <class name="apitest.SubmitResourceTest"/>-->
+            <class name="com.izaan.apitests.CreateUserRequestTests">
+            </class>
+
+            <class name="com.izaan.apitests.GetListTollsCollectionPointTest">
+            </class>
+
+            <class name="com.izaan.apitests.SubmitTollRequestTest">
+            </class>
+            <class name="com.izaan.apitests.UserListRequestTest">
+            </class>
+            <class name="com.izaan.apitests.UserLoginTest">
+            </class>
+            <class name="com.izaan.apitests.ResetPasswordTest">
+            </class>
+
+        </classes>
+
+    </test>
+
+</suite>

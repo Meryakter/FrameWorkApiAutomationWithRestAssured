@@ -1,0 +1,145 @@
+2023-12-06 20:17:03 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:03 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:03 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:04 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/toll-collection-list
+2023-12-06 20:17:04 INFO  Base:181 - Inside GETRequest call
+2023-12-06 20:17:07 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:07 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:07 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:07 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:07 INFO  TestUtils:66 - Response Message for message: success
+2023-12-06 20:17:07 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:07 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:07 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:07 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:08 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/toll-collection-list
+2023-12-06 20:17:08 INFO  Base:181 - Inside GETRequest call
+2023-12-06 20:17:09 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:09 INFO  TestUtils:66 - Response Message for message: success
+2023-12-06 20:17:09 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:09 INFO  Base:130 - Inside PayloadConverter function
+2023-12-06 20:17:09 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/tollcollection
+2023-12-06 20:17:09 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:09 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:09 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:09 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:12 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:12 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:12 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:12 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:12 INFO  TestUtils:66 - Response Message for message: success
+2023-12-06 20:17:12 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:12 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:12 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:12 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:13 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-user-list
+2023-12-06 20:17:13 INFO  Base:172 - Inside GETRequest call
+2023-12-06 20:17:14 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:14 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:14 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:14 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:14 INFO  TestUtils:66 - Response Message for message: User List!
+2023-12-06 20:17:14 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:14 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-user-
+2023-12-06 20:17:14 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:14 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:14 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:15 INFO  Base:172 - Inside GETRequest call
+2023-12-06 20:17:15 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:15 INFO  TestUtils:40 - Status Code: 403
+2023-12-06 20:17:15 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:15 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:15 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:15 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:16 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-login
+2023-12-06 20:17:16 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:16 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:17 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:17 INFO  TestUtils:66 - Response Message for statusCode: 400
+2023-12-06 20:17:17 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:17 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:17 INFO  TestUtils:66 - Response Message for message: Incorrect username or password.
+2023-12-06 20:17:17 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:17 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:17 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:17 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:18 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-login
+2023-12-06 20:17:18 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:18 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:19 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:19 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:19 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:19 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:19 INFO  TestUtils:66 - Response Message for message: Incorrect username or password.
+2023-12-06 20:17:19 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:19 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:19 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:19 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:19 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-login
+2023-12-06 20:17:19 INFO  Base:130 - Inside PayloadConverter function
+2023-12-06 20:17:19 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:20 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:20 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:20 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:20 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:20 INFO  TestUtils:66 - Response Message for message: Log in successfully!
+2023-12-06 20:17:20 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:20 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:20 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:20 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:21 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-admin-set-user-password
+2023-12-06 20:17:21 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:22 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:22 INFO  TestUtils:66 - Response Message for statusCode: 400
+2023-12-06 20:17:22 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:22 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:22 INFO  TestUtils:66 - Response Message for message: User does not exist.
+2023-12-06 20:17:22 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:22 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:22 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:22 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:23 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-admin-set-user-password
+2023-12-06 20:17:23 INFO  Base:130 - Inside PayloadConverter function
+2023-12-06 20:17:23 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:23 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:23 INFO  TestUtils:66 - Response Message for statusCode: 200
+2023-12-06 20:17:23 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:23 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:23 INFO  TestUtils:66 - Response Message for message: Password set successfully!
+2023-12-06 20:17:23 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:23 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-admin-set-user-password
+2023-12-06 20:17:23 INFO  Base:130 - Inside PayloadConverter function
+2023-12-06 20:17:23 INFO  Base:158 - Inside POSTRequest call
+2023-12-06 20:17:24 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:24 INFO  TestUtils:40 - Status Code: 401
+2023-12-06 20:17:24 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:24 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:24 INFO  TestUtils:66 - Response Message for message: Unauthorized
+2023-12-06 20:17:24 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:24 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:24 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:24 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:25 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-create-user
+2023-12-06 20:17:25 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:25 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:27 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:27 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:27 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:27 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:27 INFO  TestUtils:66 - Response Message for message: User Created successfully!
+2023-12-06 20:17:27 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:27 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:27 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:27 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:28 INFO  URL:19 - URI End Point : https://jnswdazms1.execute-api.us-east-1.amazonaws.com/dev/cognito-create-user
+2023-12-06 20:17:28 INFO  TestUtils:27 - Env Name: stage
+2023-12-06 20:17:28 INFO  Base:150 - Inside POSTRequest call
+2023-12-06 20:17:28 INFO  TestUtils:38 - Getting Response Code
+2023-12-06 20:17:28 INFO  TestUtils:40 - Status Code: 200
+2023-12-06 20:17:28 INFO  TestUtils:25 - Status Code is returned as expected.
+2023-12-06 20:17:28 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:28 INFO  TestUtils:66 - Response Message for statusCode: 400
+2023-12-06 20:17:28 INFO  TestUtils:34 - Both texts are same
+2023-12-06 20:17:28 INFO  TestUtils:64 - Getting Response Message
+2023-12-06 20:17:28 INFO  TestUtils:66 - Response Message for message: User account already exists
+2023-12-06 20:17:28 INFO  TestUtils:34 - Both texts are same
